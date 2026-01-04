@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# Compiled binaries
+solution
+*.out
+*.exe
+*.o
+*.dSYM
+
+# macOS
+.DS_Store
+
